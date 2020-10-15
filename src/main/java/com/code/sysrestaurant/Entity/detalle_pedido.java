@@ -3,9 +3,7 @@ package com.code.sysrestaurant.Entity;
 public class detalle_pedido {
 
 	public int iddetalle_pedido;
-	
 	public 	double precio;
-	
 	public int cantidad;
 
 	public int getIddetalle_pedido() {

@@ -9,10 +9,7 @@ import org.springframework.stereotype.Service;
 
 import com.code.sysrestaurant.Dao.UsuarioDao;
 import com.code.sysrestaurant.Entity.Usuario;
-
-
-
-
+	
 @Service
 public class CustomDetailService implements UserDetailsService{
 

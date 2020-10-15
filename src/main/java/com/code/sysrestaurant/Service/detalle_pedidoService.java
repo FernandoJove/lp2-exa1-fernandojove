@@ -7,5 +7,4 @@ public interface detalle_pedidoService {
 
 	List<Map<String,Object>> readAll();
 	
-	
 }
